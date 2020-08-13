@@ -29,4 +29,4 @@
 
 **Practical 7 :** Write Python program for finding the smallest and largest elements in an array A of size n using Selection algorithm.
 
-**Practical 8 :** Write Python program for finding the second largest element in an array A of size n using Tournament Method.
+**Practical 8 :** Write Python program for finding the second largest element in an array A of size n using Tournament Method .
